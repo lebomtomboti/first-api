@@ -1,0 +1,97 @@
+{
+    "AboutMe":"my name is Lebu Mtomboti and I am a student at Life Choices",
+    "projects":[
+        {
+            "name":"calculator",
+            "Github":"https://github.com/lebomtomboti/calculator.git",
+            "vercel":"https://calculator-three-theta-75.vercel.app/",
+            "Description":"I used......",
+            "image":"URL"
+        },
+        {
+                
+             "name":"BMI calculator",
+             "Github":"https://github.com/lebomtomboti/BMIcalculator.git",
+             "vercel":"https://bm-icalculator-green.vercel.app/",
+             "Description":"I used......",
+             "image":"URL"
+                },
+                {
+                
+                    "name":"Temperature converter",
+                    "Github":"https://github.com/lebomtomboti/TemperatureConverter.git",
+                    "vercel":"https://temperature-converter-bice.vercel.app/",
+                    "Description":"I used......",
+                    "image":"URL"
+                        },
+                        {
+                
+                            "name":"Ecommerce Project",
+                            "Github":"https://github.com/lebomtomboti/Ecommerce-Project.git",
+                            "vercel":"https://ecommerce-project-theta-blond.vercel.app/",
+                            "Description":"I used......",
+                            "image":"URL"
+                                },
+                                {
+                
+                                    "name":"To-do list",
+                                    "Github":"https://github.com/lebomtomboti/To-do-List.git",
+                                    "vercel":"https://to-do-list-sepia-theta.vercel.app/",
+                                    "Description":"I used......",
+                                    "image":"URL"
+                                        }
+                                
+    ],
+    "education":[
+        {
+            "description":"Bootcamp",
+            "year":"2nd April - to current",
+            "Institution":"Life Choices Academy",
+            "contact":[{
+                "name":"Lebu",
+                "contactDetails":""
+            }
+            ]
+           
+        },
+        {
+            "description":"High school",
+            "year":"2016-2020",
+            "Institution":"Harry Gwala Senior Secondary School",
+            "contact":[{
+                "name":"Lebu",
+                "contactDetails":""
+            }
+
+            ]
+           
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        }
+    ],
+    "workExperience":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":"",
+            "position":""
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        }
+    ]
+}
