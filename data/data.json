@@ -5,41 +5,49 @@
             "name":"calculator",
             "Github":"https://github.com/lebomtomboti/calculator.git",
             "vercel":"https://calculator-three-theta-75.vercel.app/",
-            "Description":"I used......",
-            "image":"URL"
+            "Description":"I used HTML ,Css and Javascript when i was coding this calaculator",
+            "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-07-02%20082754.png"
         },
         {
                 
              "name":"BMI calculator",
              "Github":"https://github.com/lebomtomboti/BMIcalculator.git",
              "vercel":"https://bm-icalculator-green.vercel.app/",
-             "Description":"I used......",
-             "image":"URL"
+             "Description":"I used HTML ,CSS and Javascript",
+             "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-07-02%20082316.png"
                 },
                 {
                 
                     "name":"Temperature converter",
                     "Github":"https://github.com/lebomtomboti/TemperatureConverter.git",
                     "vercel":"https://temperature-converter-bice.vercel.app/",
-                    "Description":"I used......",
-                    "image":"URL"
+                    "Description":"I used HTML ,CSS and Javascript",
+                    "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-07-02%20082229.png"
                         },
                         {
                 
                             "name":"Ecommerce Project",
                             "Github":"https://github.com/lebomtomboti/Ecommerce-Project.git",
                             "vercel":"https://ecommerce-project-theta-blond.vercel.app/",
-                            "Description":"I used......",
-                            "image":"URL"
+                            "Description":"I used HTML ,Css and Javascript when i was coding this project",
+                            "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-07-02%20082523.png"
                                 },
                                 {
                 
-                                    "name":"To-do list",
+                                    "name":"Keyboard",
                                     "Github":"https://github.com/lebomtomboti/To-do-List.git",
                                     "vercel":"https://to-do-list-sepia-theta.vercel.app/",
-                                    "Description":"I used......",
-                                    "image":"URL"
-                                        }
+                                    "Description":"I used HTML ,Css and Javascript when i was coding this keyboard",
+                                    "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-05-09%20110310.png"
+                                        },
+                                        {
+                
+                                            "name":"Portfolio",
+                                            "Github":"https://github.com/lebomtomboti/To-do-List.git",
+                                            "vercel":"https://to-do-list-sepia-theta.vercel.app/",
+                                            "Description":"I used Bootstrap ,HTML and Css",
+                                            "image":"https://lebomtomboti.github.io/vue-pictures/Screenshot%202024-07-02%20082716.png"
+                                                }
                                 
     ],
     "education":[
@@ -57,10 +65,10 @@
         {
             "description":"High school",
             "year":"2016-2020",
-            "Institution":"Harry Gwala Senior Secondary School",
+            "Institution":"Chris Hani Arts And Culture School",
             "contact":[{
                 "name":"Lebu",
-                "contactDetails":""
+                "contactDetails":"083 350 9812"
             }
 
             ]
@@ -70,11 +78,23 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"URL"
+            "image":"https://lebomtomboti.github.io/vue-pictures/htm%20icon.png"
         },
         {
             "name":"CSS",
-            "image":"URL"
+            "image":"https://lebomtomboti.github.io/vue-pictures/css%20icon.png"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"https://lebomtomboti.github.io/vue-pictures/bootstrap%20icon.jpg"
+        },
+        {
+            "name":"Javascript",
+            "image":"https://lebomtomboti.github.io/vue-pictures/js%20icon.png"
+        },
+        {
+            "name":"Vue js",
+            "image":"https://lebomtomboti.github.io/vue-pictures/vue%20icon.png"
         }
     ],
     "workExperience":[
@@ -88,7 +108,37 @@
     ],
     "testimonials":[
         {
-            "name":"",
+            "name":"Akhona",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"Yolanda",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"Sihlandlo",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"Nikilitha",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"Ntando",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"Masoodah",
             "position":"",
             "message":"",
             "image":"URL"
