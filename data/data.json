@@ -51,24 +51,26 @@
                                 
     ],
     "education":[
-        {
+        {   
+            "image":"https://lebomtomboti.github.io/portPhotos/LIFE-CHOICES-ACADEMY-LOGO-ON-BLUE-800x400.jpg",
             "description":"Bootcamp",
             "year":"2nd April - to current",
             "Institution":"Life Choices Academy",
             "contact":[{
-                "name":"Lebu",
+                "name":"Life Choices",
                 "contactDetails":""
             }
             ]
            
         },
-        {
+        {   
+            "image":"https://lebomtomboti.github.io/portPhotos/school.png",
             "description":"High school",
             "year":"2016-2020",
             "Institution":"Chris Hani Arts And Culture School",
             "contact":[{
-                "name":"Lebu",
-                "contactDetails":"083 350 9812"
+                "name":"Chris Hani",
+                "contactDetails":""
             }
 
             ]
